@@ -1,0 +1,8 @@
+Package    Version
+---------- -------
+async-lru  1.0.2
+pip        20.1.1
+pyaes      1.6.1
+Pyrogram   1.0.7
+PySocks    1.7.1
+setuptools 47.1.0
